@@ -12,7 +12,7 @@ import tensorflow_hub as hub
 from imblearn.over_sampling import RandomOverSampler
 
 # print(df.head)
-df = pd.read_csv("diabetes.csv")
+df = pd.read_csv("data/diabetes.csv")
 
 def plting():
     
