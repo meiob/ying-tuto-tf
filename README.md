@@ -30,6 +30,10 @@ AMD Ryzen 系 CPU 向けの TensorFlow は、`tensorflow` ではなく `tensorfl
 pip install tensorflow-rocm
 ```
 インストールが完了したら、テンソルフローが正しくインストールされたかどうかを確認するために、以下のコードを実行してみるんやで。
+```bash
+import tensorflow as tf
+print(tf.__version__)
+```
 
 他のヴァージョンのテンソルフローを探してる場合はこっちみて。=> 
 [ソースからビルドする < Tensorflow](https://www.tensorflow.org/install/source?hl=ja#gpu)
