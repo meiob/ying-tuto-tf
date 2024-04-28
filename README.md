@@ -37,7 +37,8 @@ pip install tensorflow-rocm
 ### ✏️ 参考にした動画   
 『Python TensorFlow for Machine Learning – Neural Network Text Classification Tutorial』by Kylie Ying (カイル ヤング) さん
 [https://youtu.be/VtRLrQ3Ev-U?si=l8jnaQ6DIdXQbcXr](https://youtu.be/VtRLrQ3Ev-U?si=l8jnaQ6DIdXQbcXr)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VtRLrQ3Ev-U?si=vV61LYoyM8TcsHwZ&amp;clip=Ugkxyb2DLAnQvDYpENiEMdTaJzyAYbapDP7I&amp;clipt=EAAYkE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![動画](/images/gifit_1714286853814.gif)
 
 
 #### ✍️ コースの概要:
